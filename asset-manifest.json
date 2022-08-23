@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aff9376e.css",
+    "main.js": "/static/js/main.e15dc5ff.js",
+    "static/media/kuva-3.png": "/static/media/kuva-3.22ca66b8e7763eb97be6.png",
+    "static/media/kuva-2.png": "/static/media/kuva-2.29847f59c6b10a087755.png",
+    "static/media/kuva-6.png": "/static/media/kuva-6.232a0d5f3164a3f4f29d.png",
+    "static/media/kuva-1.png": "/static/media/kuva-1.c019e2d9671bf5d3c133.png",
+    "static/media/kuva-12.png": "/static/media/kuva-12.0b6c98db2bb005b2867b.png",
+    "static/media/kuva-10.png": "/static/media/kuva-10.6c3f64abd31cd43f5a4c.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.3d38d6f9d2f9a5ba5e5b.png",
+    "static/media/kuva-7.gif": "/static/media/kuva-7.a61b6f3a85bcd259aa22.gif",
+    "static/media/kuva-4.png": "/static/media/kuva-4.b7872b3b8fd60773d3aa.png",
+    "static/media/kuva-11.gif": "/static/media/kuva-11.cfbf67940585b2ccf874.gif",
+    "static/media/kuva-8.png": "/static/media/kuva-8.526d7a4da7a86614d989.png",
+    "static/media/kuva-9.png": "/static/media/kuva-9.026ea74984117fe5cb2d.png",
+    "static/media/kuva-5.png": "/static/media/kuva-5.c0959a22a0e357519416.png",
+    "static/media/hero-tahdet.png": "/static/media/hero-tahdet.7e515007e5e739e151c0.png",
+    "static/media/hero-lappari.png": "/static/media/hero-lappari.283c9e06dce35b6805b8.png",
+    "static/media/icon-react.svg": "/static/media/icon-react.4b7cfa9a9e3617aa1b13567e6958080a.svg",
+    "static/media/icon-nodejs.svg": "/static/media/icon-nodejs.32f8285c255201372ef1808baf4520cc.svg",
+    "static/media/icon-mysql.svg": "/static/media/icon-mysql.3bc53de3f9cb27430432ad7c456907b2.svg",
+    "static/media/icon-java.svg": "/static/media/icon-java.fc43f4fb2d73fb8769edcf461ac699cb.svg",
+    "static/media/icon-menu.svg": "/static/media/icon-menu.cdb7e792bce2a90516e1.svg",
+    "static/media/icon-github.svg": "/static/media/icon-github.b3b57a01cd6907162b8c14f5ed64a409.svg",
+    "static/media/icon-linkedin.svg": "/static/media/icon-linkedin.d47777abe25e5ba7ad6c5d0384413662.svg",
+    "static/media/icon-css3.svg": "/static/media/icon-css3.fcf3a3af75b740cc148c2665e09a299b.svg",
+    "static/media/icon-html5.svg": "/static/media/icon-html5.8e4a0cee032e08f78f48c6470a71b9d8.svg",
+    "index.html": "/index.html",
+    "static/media/icon-javascript.svg": "/static/media/icon-javascript.c44ca070b55344b816e4855973b3aba8.svg",
+    "main.aff9376e.css.map": "/static/css/main.aff9376e.css.map",
+    "main.e15dc5ff.js.map": "/static/js/main.e15dc5ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aff9376e.css",
+    "static/js/main.e15dc5ff.js"
+  ]
+}
