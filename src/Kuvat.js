@@ -23,24 +23,24 @@ class Kuvat extends Component {
                 </div>
                 <div className="kuvat-row">
                     <div className="kuvat-column">
-                        <img id="modalImg" className="modalImages" src={kuva1} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva9} onClick={event => opening()} alt="kuva" />
+                        <img id="modalImg" className="modalImages" src={kuva1} onClick={event => opening()} alt="UI/UX-konseptikuva CV-peli-idealle" />
+                        <img id="modalImg" className="modalImages" src={kuva9} onClick={event => opening()} alt="Konseptikuva Instagram-peli-ideaa varten" />
                     </div>
                     <div className="kuvat-column">
-                        <img id="modalImg" className="modalImages" src={kuva6} onClick={event => opening()} alt="kuva" />
+                        <img id="modalImg" className="modalImages" src={kuva6} onClick={event => opening()} alt="Markkinointia varten tehty sarjakuva" />
                     </div>
                     <div className="kuvat-column">
-                        <img id="modalImg" className="modalImages" src={kuva3} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva2} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva7} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva12} onClick={event => opening()} alt="kuva" />
+                        <img id="modalImg" className="modalImages" src={kuva3} onClick={event => opening()} alt="Toimiston esittelykuva" />
+                        <img id="modalImg" className="modalImages" src={kuva2} onClick={event => opening()} alt="Toimiston esittelykuva" />
+                        <img id="modalImg" className="modalImages" src={kuva7} onClick={event => opening()} alt="Global Game Jam -peliin grafiikkaa ja animaatiota" />
+                        <img id="modalImg" className="modalImages" src={kuva12} onClick={event => opening()} alt="UI/UX-konseptikuva CV-peli-idealle" />
                     </div>
                     <div className="kuvat-column">
-                        <img id="modalImg" className="modalImages" src={kuva4} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva5} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva8} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva10} onClick={event => opening()} alt="kuva" />
-                        <img id="modalImg" className="modalImages" src={kuva11} onClick={event => opening()} alt="kuva" />
+                        <img id="modalImg" className="modalImages" src={kuva4} onClick={event => opening()} alt="Grafiikka ja UI/UX-suunnittelu Turvakamu-sovellukselle" />
+                        <img id="modalImg" className="modalImages" src={kuva5} onClick={event => opening()} alt="Hahmosuunnittelu Turvakamu-sovellukselle" />
+                        <img id="modalImg" className="modalImages" src={kuva8} onClick={event => opening()} alt="UI-konseptikuvaa mobiilisovelluksen markkinointia varten" />
+                        <img id="modalImg" className="modalImages" src={kuva10} onClick={event => opening()} alt="Kuvitus" />
+                        <img id="modalImg" className="modalImages" src={kuva11} onClick={event => opening()} alt="Animaatio" />
                     </div>
                 </div>
                 <div id="kuvatModal" className="modal" onClick={event => closing()}>
