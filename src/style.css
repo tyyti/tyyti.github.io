@@ -483,7 +483,7 @@ input[type='text']:focus, [type='email']:focus, textarea:focus {
 }
 
 button {
-  background-color: #04AA6D;
+  background-color: var(--cl--2--);
   color: white;
   padding: 12px 20px;
   border: none;
@@ -492,7 +492,7 @@ button {
 }
 
 button:hover {
-  background-color: #0b7760;
+  background-color: var(--cl--3--);
 }
 
 /* Yhteys-sivu loppuu */
